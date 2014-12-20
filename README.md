@@ -15,3 +15,8 @@
 详细内容参见**xml-to-egg-test**中的内容。
 
 ***You can get values from xml files more easily.More details see xml-to-egg-test***
+
+####我的博客 My Web
+===
+
+**[慕容小匹夫](http://www.cnblogs.com/murongxiaopifu/)**
