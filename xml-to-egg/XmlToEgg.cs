@@ -75,10 +75,4 @@ namespace EggToolkit
 			return target;
 		}
 	}
-	
-	public class TestClass
-	{
-		public string name;
-		public int	age;
-	}
 }
